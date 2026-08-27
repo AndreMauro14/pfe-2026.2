@@ -1,6 +1,5 @@
-import Image from "next/image";
 import styles from "./page.module.css";
-import MiniBio from "./components/MiniBio"; 
+import MiniBio from "../components/MiniBio"; 
 
 export default function Home() {
   return (
